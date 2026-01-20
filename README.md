@@ -38,7 +38,7 @@ Built with **Flutter** and **Riverpod**, featuring a premium **Glassmorphism** d
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shivasomesh-cpu/silent-signals.git
+   git clone https://github.com/VeeraM-SYS/silent-signals.git
    cd silent-signals
    ```
 
